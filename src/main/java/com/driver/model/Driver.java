@@ -61,6 +61,6 @@ public class Driver {
     }
 
     public void setPassword(String password) {
-        this.password = password
+        this.password = password;
     }
 }
