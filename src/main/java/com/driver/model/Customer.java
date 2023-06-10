@@ -59,6 +59,6 @@ public class Customer {
     }
 
     public void setPassword(String password) {
-        this.password = password
+        this.password = password;
     }
 }
